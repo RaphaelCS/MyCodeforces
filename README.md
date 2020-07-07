@@ -1,2 +1,3 @@
 # MyCodeforces
-My Codeforces algorithms.
+My [Codeforces](https://codeforces.com/) algorithms.
+
